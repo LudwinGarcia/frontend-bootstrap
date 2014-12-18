@@ -1,0 +1,18 @@
+.jumbotron .title{
+	text-align: center;
+	color: white;
+}
+
+.jumbotron {
+	background-color: black;
+}
+
+.subtitleCols{
+	font-style: 50px;
+	background-color: #0489B1;
+}
+
+.subs{
+	font-style: 50px;
+	background-color: #04B4AE;
+}
